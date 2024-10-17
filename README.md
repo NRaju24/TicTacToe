@@ -27,7 +27,7 @@ This is a simple console-based TicTacToe game implemented in Java. The game allo
    javac launchGame.java
    ```
 
-2. un the Program:
+2. Run the Program:
  java launchGame
    ```
 
